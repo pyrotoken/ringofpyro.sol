@@ -21,8 +21,16 @@ At launch
 
 "CONTRACT X" to be variable to be called at anytime, subject to community votes, we burn the token we want and/or subject to fees."
 
+Contract address: 0xD3cA4151bA451813A3C37e4Ff920406DA0D451c6
+
 Socials
 
-https://t.me/RINGofPYRO
-ringofpyro.com
-https://twitter.com/ringofpyro
+Telegram: https://t.me/RINGofPYRO
+
+Website: https://ringofpyro.com
+
+Twitter: https://twitter.com/ringofpyro
+
+Reddit: https://www.reddit.com/r/ringofpyro
+
+Github: https://github.com/pyrotoken/ringofpyro.sol
