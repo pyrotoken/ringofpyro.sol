@@ -1,12 +1,11 @@
 $RING is a $PYRO ecosystem coin to burn them all. 
 
-Many projects struggle with the issue of supply control. 
-
-$RING will bring the pyro burn utility to these tokens by introducing a contract to burn them all.
+Many projects struggle with the issue of supply control. $RING will bring the pyro burn utility to these tokens by introducing a contract to burn them all.
 
 Tokenomics
 
 $RING Ring of Pyro
+
 The ⭕️ Burn: Contract X.
 
 1% BURN OF $RING
@@ -32,5 +31,3 @@ Website: https://ringofpyro.com
 Twitter: https://twitter.com/ringofpyro
 
 Reddit: https://www.reddit.com/r/ringofpyro
-
-Github: https://github.com/pyrotoken/ringofpyro.sol
