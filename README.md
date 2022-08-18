@@ -19,7 +19,10 @@ At launch
 1% max wallet
 0.5% max txn
 
-"CONTRACT X" to be variable to be called at anytime,
-subject to community votes,
-we burn the token we want and/or subject to fees.
-*/
+"CONTRACT X" to be variable to be called at anytime, subject to community votes, we burn the token we want and/or subject to fees."
+
+Socials
+
+https://t.me/RINGofPYRO
+ringofpyro.com
+https://twitter.com/ringofpyro
