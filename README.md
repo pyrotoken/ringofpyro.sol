@@ -10,7 +10,7 @@ Tokenomics
 2% BURN "CONTRACT X"
 1% MARKETING
 
-Contract address: 0xD3cA4151bA451813A3C37e4Ff920406DA0D451c6
+Contract address: 0x1ee38410166c7ee33387909e66ba223d18774919
 
 Socials
 
